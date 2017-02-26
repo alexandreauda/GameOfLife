@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1423775073 source:c:\users\alexandre\documents\nouveau dossier\test gameoflife complet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<time.h>
+	<string.h>
+
+1220933418 c:\users\alexandre\downloads\pdc34dllw (2)\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1431598419 source:c:\users\alexandre\documents\projets c et c++\test gameoflife complet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<time.h>
+	<string.h>
+
+1220911818 c:\users\alexandre\documents\projets c et c++\bibliothèque ncurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1431594819 source:c:\users\alexandre\documents\projets c et c++\game_of_life_complet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<time.h>
+	<string.h>
+
